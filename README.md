@@ -83,7 +83,6 @@ Recent research highlights:
 - Ansys Workbench (Simulation)  
 - ESP-IDF (MCU Programming)
 
----
 
 ## ✨ Advantages
 
@@ -93,7 +92,6 @@ Recent research highlights:
 - ✅ Smooth operation with reduced vibrations.
 - ✅ Modular & flexible design.
 
----
 
 ## 🚗 Applications
 
@@ -111,7 +109,6 @@ Recent research highlights:
 - Better thermal management.
 - FOC & CAN-enabled controller for optimal performance.
 
----
 
 ## 📈 Work Progress
 
@@ -123,12 +120,5 @@ Recent research highlights:
 - Develop FOC & CAN-enabled motor controller.
 - Add advanced soft-start & operational modes.
 - Optimize torque & speed control (Clarke-Park transform).
-
----
-
-## 🙏 Acknowledgment
-
-Thank you for your attention and support!  
-For details, please refer to the **literature review papers** and internal project documentation.
 
 ---
