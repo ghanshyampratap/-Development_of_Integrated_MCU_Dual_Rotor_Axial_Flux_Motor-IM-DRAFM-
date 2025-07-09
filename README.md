@@ -11,19 +11,6 @@ Axial flux motors are gaining popularity in **Electric Vehicles (EVs)**, **Aeros
 - Better efficiency
 
 
-## 🔬 Literature Review
-Recent research highlights:
-- Dual rotor axial flux designs for higher torque density.
-- Innovative winding techniques (e.g., toroidal winding).
-- Better control strategies for improved performance.
-
-**Key references:**  
-- Hesari et al., *Dual Independent Rotor Axial Flux Induction Motor*, 2024  
-- Abhijith Udayan et al., *Design of Dual Rotor Axial Flux Motor*, 2024  
-- Jikai Si et al., *A Dual-Rotor Axial-Flux PM Motor with Equidirectional Toroidal Winding*, 2024
-
----
-
 ## 🎯 Problem Statement & Objectives
 
 ### 🔴 Problems:
