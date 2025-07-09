@@ -110,9 +110,7 @@ Axial flux motors are gaining popularity in **Electric Vehicles (EVs)**, **Aeros
 - Better thermal management.
 - FOC & CAN-enabled controller for optimal performance.
 
-https://github.com/user-attachments/assets/5008b5a4-8e34-4185-b1b6-fbab99d1c0bd
-<!-- Failed to upload "v2.mp4" -->
-<!-- Failed to upload "v2.mp4" -->
+
 
 
 
