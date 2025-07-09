@@ -30,6 +30,13 @@ Axial flux motors are gaining popularity in **Electric Vehicles (EVs)**, **Aeros
 - Flux lines run parallel to the shaft for shorter magnetic path → higher torque.
 - Modular design allows various stator-rotor combinations.
 - Integrated MCU for advanced control and sensorless operation.
+  
+![image](https://github.com/user-attachments/assets/5f0ee27e-faa8-45cd-818e-755062ca1b5a)
+
+![image](https://github.com/user-attachments/assets/9892c8b3-d40e-4777-a07e-5b869c9b7514)
+
+![image](https://github.com/user-attachments/assets/050348b3-cc2b-4633-a588-598b3f24101f)
+
 
 ---
 
@@ -57,6 +64,7 @@ Axial flux motors are gaining popularity in **Electric Vehicles (EVs)**, **Aeros
 - Estimated torque: ~0.03 Nm @12A.
 - Power: ~500 W peak, ~350 W continuous.
 - Efficiency: ~85–90%.
+
 
 ---
 
