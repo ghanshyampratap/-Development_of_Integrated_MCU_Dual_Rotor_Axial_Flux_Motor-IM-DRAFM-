@@ -10,7 +10,6 @@ Axial flux motors are gaining popularity in **Electric Vehicles (EVs)**, **Aeros
 - Advanced thermal management
 - Better efficiency
 
----
 
 ## 🔬 Literature Review
 Recent research highlights:
@@ -38,7 +37,6 @@ Recent research highlights:
 - Integrate control systems into a single unit.
 - Make the design scalable & affordable.
 
----
 
 ## 💡 Proposed Solution
 - Use **Axial Flux Motor Technology** with **dual rotors**.
