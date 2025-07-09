@@ -37,7 +37,8 @@ Axial flux motors are gaining popularity in **Electric Vehicles (EVs)**, **Aeros
 
 ![image](https://github.com/user-attachments/assets/050348b3-cc2b-4633-a588-598b3f24101f)
 
-![image](https://github.com/user-attachments/assets/cbf102f7-a68e-4232-b5b8-b93990216301)
+![Screenshot 2025-07-09 113440](https://github.com/user-attachments/assets/3de2c714-05ac-4a8e-bdc8-adfdc46b47ca)
+
 
 ![Screenshot 2025-07-09 113126](https://github.com/user-attachments/assets/24972d46-bbf2-41ed-8a5a-d23167f939c5)
 
